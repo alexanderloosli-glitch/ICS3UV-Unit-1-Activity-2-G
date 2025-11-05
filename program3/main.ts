@@ -6,6 +6,6 @@
  */
 
 //This program will display the answer givin 
-console.log("")
+console.log("A = ", (8 + 7) * (3 + 6) )
 
 console.log("\nDone")
